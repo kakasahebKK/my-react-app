@@ -1,2 +1,2 @@
 # my-react-app
-simple application using React JS
+Simple application using React JS
